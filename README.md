@@ -3,7 +3,7 @@
 - :telescope: В данный момент я обучаюсь в 8 классе 
 - :zap: В свободное время решаю задачки на Codeforces
 - :ski: Тренируюсь в ДЮСШОР МГА(Детско-Юношеская спортивна школа олимпийского резерва "Московская горнолыжная академия")
-- :mailbox: Как меня найти: [[![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@MatytsynK)
+- :mailbox: Как меня найти: [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@MatytsynK)
 
 
 <div id="header" align="center">
