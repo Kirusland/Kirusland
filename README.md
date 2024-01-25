@@ -20,3 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: Моя статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmatytsyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
