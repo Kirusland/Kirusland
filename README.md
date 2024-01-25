@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ### :hammer_and_wrench: Про меня: 
 Я начинающий Python и Web разработчик из России
 - :telescope: В данный момент я обучаюсь в 8 классе в ГБОУ Гимназии №1582
