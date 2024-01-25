@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
----
-
 ### :hammer_and_wrench: Про меня : 
 Я начинающий Python и Web разработчик из России
 - :telescope: В данный момент я обучаюсь в 8 классе в ГБОУ Гимназии №1582
@@ -25,3 +19,9 @@
 
 ### :fire: Моя статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmatytsyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
