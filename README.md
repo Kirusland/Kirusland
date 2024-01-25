@@ -4,7 +4,7 @@
 
 ---
 
-### :hammer_and_wrench: Про меня: 
+### :hammer_and_wrench: Про меня : 
 Я начинающий Python и Web разработчик из России
 - :telescope: В данный момент я обучаюсь в 8 классе в ГБОУ Гимназии №1582
 - :zap: В свободное время решаю задачки на Codeforces
@@ -23,5 +23,5 @@
 
 ---
 
-### :fire: Моя статистика:
+### :fire: Моя статистика :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillmatytsyn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
