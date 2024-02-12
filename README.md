@@ -6,7 +6,7 @@
 - :zap: В свободное время решаю задачки на Codeforces
 - :ski: Тренируюсь в ДЮСШОР МГА (Детско-Юношеская спортивная школа олимпийского резерва "Московская горнолыжная академия")
 
-- :mailbox: Как меня найти: [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@MatytsynK) [![VK badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/realnewskrab)
+- :mailbox: Как меня найти: [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@KirillMatytsyn) [![VK badge](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/realnewskrab)
 
 ---
 
