@@ -23,11 +23,11 @@
 <p align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirusland&theme=tokyonight">
 </p>
-<p align = "center">
+<div align = "center">
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirusland&layout=compact&theme=vision-friendly-dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
 
 ---
 
